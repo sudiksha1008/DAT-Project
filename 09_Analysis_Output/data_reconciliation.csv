@@ -1,0 +1,6 @@
+dataset,raw_rows,cleaned_rows,rows_removed,percent_removed
+Instagram,200,200,0,0.0
+Twitter Sentiment,179995,178781,1214,0.6745
+Twitter Category,162980,162969,11,0.0067
+YouTube Comments,1500,1499,1,0.0667
+YouTube Videos,682,682,0,0.0
